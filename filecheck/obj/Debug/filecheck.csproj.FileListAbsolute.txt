@@ -1,0 +1,11 @@
+c:\users\babt_you\documents\visual studio 2017\Projects\filecheck\filecheck\bin\Debug\filecheck.exe.config
+c:\users\babt_you\documents\visual studio 2017\Projects\filecheck\filecheck\bin\Debug\filecheck.exe
+c:\users\babt_you\documents\visual studio 2017\Projects\filecheck\filecheck\bin\Debug\filecheck.pdb
+c:\users\babt_you\documents\visual studio 2017\Projects\filecheck\filecheck\obj\Debug\filecheck.csprojAssemblyReference.cache
+c:\users\babt_you\documents\visual studio 2017\Projects\filecheck\filecheck\obj\Debug\filecheck.Form1.resources
+c:\users\babt_you\documents\visual studio 2017\Projects\filecheck\filecheck\obj\Debug\filecheck.Properties.Resources.resources
+c:\users\babt_you\documents\visual studio 2017\Projects\filecheck\filecheck\obj\Debug\filecheck.csproj.GenerateResource.cache
+c:\users\babt_you\documents\visual studio 2017\Projects\filecheck\filecheck\obj\Debug\filecheck.csproj.CoreCompileInputs.cache
+c:\users\babt_you\documents\visual studio 2017\Projects\filecheck\filecheck\obj\Debug\filecheck.exe
+c:\users\babt_you\documents\visual studio 2017\Projects\filecheck\filecheck\obj\Debug\filecheck.pdb
+C:\Users\babt_you\documents\visual studio 2017\Projects\filecheck\filecheck\obj\Debug\filecheck.loginform.resources
